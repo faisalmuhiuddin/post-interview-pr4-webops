@@ -1,3 +1,7 @@
+/*
+This is the solution code for your question to make one of the for loops asynchronous.
+I have implemented that using async await and promise
+*/
 const puppeteer = require('puppeteer');
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
