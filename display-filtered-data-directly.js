@@ -1,3 +1,7 @@
+/*
+This is the solution code to you question to implement something to display data directly on display..
+I am using HTML and rendering the data after converting the data into a string form and then displaying it in HTML form
+*/
 const express = require('express');
 const fs = require('fs');
 
